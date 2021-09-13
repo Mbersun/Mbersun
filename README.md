@@ -8,4 +8,8 @@
 - 💬 Ask me about Video Games.
 - 😄 Pronouns: He
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbersun)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbersun&theme=monokai&show_icons=true)
